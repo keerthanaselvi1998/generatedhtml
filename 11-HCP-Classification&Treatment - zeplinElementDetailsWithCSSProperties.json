@@ -1,0 +1,3233 @@
+{
+    "-Bayer-AG-This-website-has-been-developed-by-the-HELP-Group-a_x614_y4947": {
+        "bottom": [],
+        "click_x": 987.0,
+        "click_y": 5024.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "155px",
+            "letter-spacing": "normal",
+            "line-height": "2",
+            "text-align": "left",
+            "width": "746px"
+        },
+        "elementName": "-Bayer-AG-This-website-has-been-developed-by-the-HELP-Group-a_x614_y4947",
+        "height": "155px",
+        "left": [
+            "Privacy-Statement-Conditions-of-Use-Imprint-About-Us-Sitemap-Re_x214_y4947"
+        ],
+        "parent": [
+            "Rectangle-4-copy_x0_y4854"
+        ],
+        "right": [],
+        "styleGuideX": "614px",
+        "styleGuideY": "4947px",
+        "text": "@ Bayer AG\rThis website has been developed by the HELP Group, a panel of international physicians and experts with an interest in HMB, supported by Bayer.\r\rApproval number\rLatest update: November 2018",
+        "top": [],
+        "width": "746px",
+        "xMouseClickPoint": 838,
+        "yMouseClickPoint": 471
+    },
+    "-HCP-ClassificationTreatment_x0_y0": {
+        "bottom": [],
+        "click_x": 800.0,
+        "click_y": 2596.0,
+        "contains": [
+            "Rectangle-613_x215_y3777",
+            "line-copy-27_x214_y4372",
+            "header-box-copy_x0_y0",
+            "Rectangle-4-copy_x0_y4854",
+            "You-may-be-also-interested-in_x214_y4328",
+            "Rectangle-3333_x215_y1020",
+            "HELP-logo-copy_x1436_y124",
+            "teaser-boxes-copy-2_x214_y4392",
+            "Rectangle-Polyps_x215_y1364",
+            "Layer-1_x1016_y4392",
+            "breadcrumb_x215_y319",
+            "Rectangle_x215_y2147",
+            "PALM-COEIN-Classification-Treatment-Options_x377_y418",
+            "line-copy-18_x215_y606",
+            "Rectangle_x215_y2669",
+            "Improving-knowledge-Improving-lives_x118_y186",
+            "Rectangle-960-copy-11_x0_y819",
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x216_y635",
+            "Layer-1_x615_y4392",
+            "Palm-Coin-Icon_x219_y386",
+            "Rectangle_x215_y1888",
+            "Rectangle_x215_y2930",
+            "header-box_x0_y44",
+            "Rectangle_x215_y3191",
+            "Rectangle_x215_y3452",
+            "Lorem-Ipsum-dolor-sit-amet_x218_y561",
+            "HMB_x119_y120",
+            "Rectangle_x215_y2408",
+            "Rectangle-Polyps_x215_y1625"
+        ],
+        "cssStyles": {
+            "background-color": "#ffffff",
+            "height": "5192px",
+            "width": "1600px"
+        },
+        "elementName": "-HCP-ClassificationTreatment_x0_y0",
+        "height": "5192px",
+        "left": [],
+        "parent": [
+            "ROOT_REF_WINDOW"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "0px",
+        "text": null,
+        "top": [],
+        "width": "1600px",
+        "xMouseClickPoint": 390,
+        "yMouseClickPoint": 5
+    },
+    "About-us_x14_y15": {
+        "bottom": [],
+        "click_x": 43.5,
+        "click_y": 21.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "12px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "left",
+            "width": "59px"
+        },
+        "elementName": "About-us_x14_y15",
+        "height": "12px",
+        "left": [],
+        "parent": [
+            "header-box-copy_x0_y0"
+        ],
+        "right": [
+            "For-Healthcare-Professionals_x103_y15"
+        ],
+        "styleGuideX": "14px",
+        "styleGuideY": "15px",
+        "text": "About us",
+        "top": [],
+        "width": "59px",
+        "xMouseClickPoint": 163,
+        "yMouseClickPoint": 80
+    },
+    "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x385_y1765": {
+        "bottom": [],
+        "click_x": 821.5,
+        "click_y": 1772.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "left",
+            "width": "873px"
+        },
+        "elementName": "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x385_y1765",
+        "height": "14px",
+        "left": [
+            "a_x246_y1690"
+        ],
+        "parent": [
+            "Rectangle-Polyps_x215_y1625"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "1765px",
+        "text": "Adenomyosis is a condition in which the lining of the uterus (the endometrium) grows into the muscular wall of the uterus (the myometrium).\r\r",
+        "top": [
+            "link-arrow-copy-9_x617_y1692",
+            "Line-Adenomyosis_x385_y1733"
+        ],
+        "width": "873px",
+        "xMouseClickPoint": 537,
+        "yMouseClickPoint": 8
+    },
+    "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2028": {
+        "bottom": [],
+        "click_x": 705.0,
+        "click_y": 2035.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "left",
+            "width": "638px"
+        },
+        "elementName": "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2028",
+        "height": "14px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y1888"
+        ],
+        "right": [],
+        "styleGuideX": "386px",
+        "styleGuideY": "2028px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt u\r\r",
+        "top": [
+            "Line-Adenomyosis_x385_y1996",
+            "Layer-1_x590_y1955"
+        ],
+        "width": "638px",
+        "xMouseClickPoint": 234,
+        "yMouseClickPoint": 271
+    },
+    "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2809": {
+        "bottom": [],
+        "click_x": 705.0,
+        "click_y": 2816.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "left",
+            "width": "638px"
+        },
+        "elementName": "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2809",
+        "height": "14px",
+        "left": [
+            "O_x253_y2733"
+        ],
+        "parent": [
+            "Rectangle_x215_y2669"
+        ],
+        "right": [],
+        "styleGuideX": "386px",
+        "styleGuideY": "2809px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt u\r\r",
+        "top": [
+            "Line-Ovulatory-disfunction_x385_y2777",
+            "Layer-1_x746_y2736"
+        ],
+        "width": "638px",
+        "xMouseClickPoint": 445,
+        "yMouseClickPoint": 137
+    },
+    "Adenomyosis_x385_y1689": {
+        "bottom": [
+            "Line-Adenomyosis_x385_y1733"
+        ],
+        "click_x": 486.5,
+        "click_y": 1705.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "32px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "203px"
+        },
+        "elementName": "Adenomyosis_x385_y1689",
+        "height": "32px",
+        "left": [
+            "a_x246_y1690"
+        ],
+        "parent": [
+            "Rectangle-Polyps_x215_y1625"
+        ],
+        "right": [
+            "link-arrow-copy-9_x617_y1692"
+        ],
+        "styleGuideX": "385px",
+        "styleGuideY": "1689px",
+        "text": "Adenomyosis",
+        "top": [],
+        "width": "203px",
+        "xMouseClickPoint": 12,
+        "yMouseClickPoint": 395
+    },
+    "Adenomyosis_x388_y1952": {
+        "bottom": [
+            "Line-Adenomyosis_x385_y1996"
+        ],
+        "click_x": 474.0,
+        "click_y": 1968.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "32px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "172px"
+        },
+        "elementName": "Adenomyosis_x388_y1952",
+        "height": "32px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y1888"
+        ],
+        "right": [
+            "Layer-1_x590_y1955"
+        ],
+        "styleGuideX": "388px",
+        "styleGuideY": "1952px",
+        "text": "Leiomyoma",
+        "top": [],
+        "width": "172px",
+        "xMouseClickPoint": 1,
+        "yMouseClickPoint": 203
+    },
+    "Coagulation-disorders_x386_y2472": {
+        "bottom": [
+            "Line-Coagulation-disorders_x385_y2516"
+        ],
+        "click_x": 552.0,
+        "click_y": 2488.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "32px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "332px"
+        },
+        "elementName": "Coagulation-disorders_x386_y2472",
+        "height": "32px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y2408"
+        ],
+        "right": [
+            "Layer-1_x747_y2474"
+        ],
+        "styleGuideX": "386px",
+        "styleGuideY": "2472px",
+        "text": "Coagulation disorders",
+        "top": [],
+        "width": "332px",
+        "xMouseClickPoint": 79,
+        "yMouseClickPoint": 266
+    },
+    "Download_x524_y4107": {
+        "bottom": [],
+        "click_x": 569.0,
+        "click_y": 4114.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "18px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "15px",
+            "letter-spacing": "0.7px",
+            "line-height": "3.89",
+            "text-align": "center",
+            "width": "90px"
+        },
+        "elementName": "Download_x524_y4107",
+        "height": "15px",
+        "left": [
+            "icon-download_x485_y4104"
+        ],
+        "parent": [
+            "Rectangle-3-copy-10_x315_y4090"
+        ],
+        "right": [],
+        "styleGuideX": "524px",
+        "styleGuideY": "4107px",
+        "text": "Download",
+        "top": [],
+        "width": "90px",
+        "xMouseClickPoint": 95,
+        "yMouseClickPoint": 70
+    },
+    "Endometrial_x388_y2994": {
+        "bottom": [
+            "Line-Endometrial_x385_y3038"
+        ],
+        "click_x": 478.5,
+        "click_y": 3006.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "24px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "181px"
+        },
+        "elementName": "Endometrial_x388_y2994",
+        "height": "24px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y2930"
+        ],
+        "right": [
+            "Layer-1_x601_y2997"
+        ],
+        "styleGuideX": "388px",
+        "styleGuideY": "2994px",
+        "text": "Endometrial",
+        "top": [],
+        "width": "181px",
+        "xMouseClickPoint": 8,
+        "yMouseClickPoint": 329
+    },
+    "For-Healthcare-Professionals_x103_y15": {
+        "bottom": [],
+        "click_x": 195.0,
+        "click_y": 21.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "12px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "left",
+            "width": "184px"
+        },
+        "elementName": "For-Healthcare-Professionals_x103_y15",
+        "height": "12px",
+        "left": [
+            "About-us_x14_y15"
+        ],
+        "parent": [
+            "header-box-copy_x0_y0"
+        ],
+        "right": [
+            "Select-your-country_x1435_y15"
+        ],
+        "styleGuideX": "103px",
+        "styleGuideY": "15px",
+        "text": "For Healthcare Professionals",
+        "top": [],
+        "width": "184px",
+        "xMouseClickPoint": 314,
+        "yMouseClickPoint": 80
+    },
+    "Group_x1115_y3871": {
+        "bottom": [],
+        "click_x": 1250.0,
+        "click_y": 4006.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "270px",
+            "width": "270px"
+        },
+        "elementName": "Group_x1115_y3871",
+        "height": "270px",
+        "left": [
+            "line-copy-26_x315_y3915",
+            "Layer-1_x731_y3875",
+            "Rectangle-3-copy-10_x315_y4090",
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x316_y3946"
+        ],
+        "parent": [
+            "Rectangle-613_x215_y3777"
+        ],
+        "right": [],
+        "styleGuideX": "1115px",
+        "styleGuideY": "3871px",
+        "text": null,
+        "top": [],
+        "width": "270px",
+        "xMouseClickPoint": 982,
+        "yMouseClickPoint": 391
+    },
+    "HELP-logo-copy_x1436_y124": {
+        "bottom": [
+            "Rectangle-960-copy-11_x0_y819"
+        ],
+        "click_x": 1518.0,
+        "click_y": 169.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "90px",
+            "width": "164px"
+        },
+        "elementName": "HELP-logo-copy_x1436_y124",
+        "height": "90px",
+        "left": [
+            "HMB_x119_y120",
+            "Improving-knowledge-Improving-lives_x118_y186"
+        ],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "1436px",
+        "styleGuideY": "124px",
+        "text": null,
+        "top": [
+            "header-box_x0_y44"
+        ],
+        "width": "164px",
+        "xMouseClickPoint": 460,
+        "yMouseClickPoint": 228
+    },
+    "HMB_x119_y120": {
+        "bottom": [
+            "Improving-knowledge-Improving-lives_x118_y186"
+        ],
+        "click_x": 171.0,
+        "click_y": 147.5,
+        "contains": [],
+        "cssStyles": {
+            "-webkit-background-clip": "text",
+            "-webkit-text-fill-color": "transparent",
+            "background-clip": "text",
+            "background-image": "linear-gradient(32deg, var(--dark-pink), var(--dark-peach)), linear-gradient(to bottom, #ffffff, #ffffff)",
+            "color": "#ffffff",
+            "font-family": "TrashHand",
+            "font-size": "70px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "55px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "104px"
+        },
+        "elementName": "HMB_x119_y120",
+        "height": "55px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [
+            "HELP-logo-copy_x1436_y124"
+        ],
+        "styleGuideX": "119px",
+        "styleGuideY": "120px",
+        "text": "HMB:",
+        "top": [
+            "header-box_x0_y44"
+        ],
+        "width": "104px",
+        "xMouseClickPoint": 286,
+        "yMouseClickPoint": 206
+    },
+    "Iatrogenic_x388_y3255": {
+        "bottom": [
+            "Line-Iatrogenic_x385_y3299"
+        ],
+        "click_x": 462.0,
+        "click_y": 3271.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "32px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "148px"
+        },
+        "elementName": "Iatrogenic_x388_y3255",
+        "height": "32px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y3191"
+        ],
+        "right": [
+            "Layer-1_x566_y3258"
+        ],
+        "styleGuideX": "388px",
+        "styleGuideY": "3255px",
+        "text": "Iatrogenic",
+        "top": [],
+        "width": "148px",
+        "xMouseClickPoint": 526,
+        "yMouseClickPoint": 340
+    },
+    "Improving-knowledge-Improving-lives_x118_y186": {
+        "bottom": [
+            "breadcrumb_x215_y319"
+        ],
+        "click_x": 325.5,
+        "click_y": 216.0,
+        "contains": [],
+        "cssStyles": {
+            "-webkit-background-clip": "text",
+            "-webkit-text-fill-color": "transparent",
+            "background-clip": "text",
+            "background-image": "linear-gradient(to right, var(--muted-purple), var(--dusk-two)), linear-gradient(to bottom, #7e5291, #7e5291)",
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "30px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "800",
+            "height": "60px",
+            "letter-spacing": "3px",
+            "line-height": "1.23",
+            "text-align": "left",
+            "width": "415px"
+        },
+        "elementName": "Improving-knowledge-Improving-lives_x118_y186",
+        "height": "60px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [
+            "HELP-logo-copy_x1436_y124"
+        ],
+        "styleGuideX": "118px",
+        "styleGuideY": "186px",
+        "text": " \rImproving knowledge,\rImproving lives",
+        "top": [
+            "HMB_x119_y120"
+        ],
+        "width": "415px",
+        "xMouseClickPoint": 501,
+        "yMouseClickPoint": 292
+    },
+    "Layer-1_x1016_y4392": {
+        "bottom": [
+            "Rectangle-4-copy_x0_y4854"
+        ],
+        "click_x": 1201.0,
+        "click_y": 4577.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "370px",
+            "width": "370px"
+        },
+        "elementName": "Layer-1_x1016_y4392",
+        "height": "370px",
+        "left": [
+            "Layer-1_x615_y4392"
+        ],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "1016px",
+        "styleGuideY": "4392px",
+        "text": null,
+        "top": [
+            "Rectangle-613_x215_y3777"
+        ],
+        "width": "370px",
+        "xMouseClickPoint": 133,
+        "yMouseClickPoint": 36
+    },
+    "Layer-1_x1514_y4769": {
+        "bottom": [],
+        "click_x": 1539.0,
+        "click_y": 4794.0,
+        "contains": [
+            "icon-arrow-up-copy_x1514_y4769"
+        ],
+        "cssStyles": {
+            "height": "50px",
+            "width": "50px"
+        },
+        "elementName": "Layer-1_x1514_y4769",
+        "height": "50px",
+        "left": [],
+        "parent": [
+            "icon-arrow-up-copy_x1514_y4769"
+        ],
+        "right": [],
+        "styleGuideX": "1514px",
+        "styleGuideY": "4769px",
+        "text": null,
+        "top": [],
+        "width": "50px",
+        "xMouseClickPoint": 1172,
+        "yMouseClickPoint": 112
+    },
+    "Layer-1_x513_y1430": {
+        "bottom": [
+            "Polyps-are-benign-growths-on-the-lining-of-the-uterus_x386_y1504"
+        ],
+        "click_x": 520.5,
+        "click_y": 1442.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "Layer-1_x513_y1430",
+        "height": "25px",
+        "left": [
+            "Polyps_x388_y1428"
+        ],
+        "parent": [
+            "Rectangle-Polyps_x215_y1364"
+        ],
+        "right": [],
+        "styleGuideX": "513px",
+        "styleGuideY": "1430px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 497,
+        "yMouseClickPoint": 405
+    },
+    "Layer-1_x566_y3258": {
+        "bottom": [
+            "Lorem_x386_y3331"
+        ],
+        "click_x": 573.5,
+        "click_y": 3270.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "Layer-1_x566_y3258",
+        "height": "25px",
+        "left": [
+            "Iatrogenic_x388_y3255"
+        ],
+        "parent": [
+            "Rectangle_x215_y3191"
+        ],
+        "right": [],
+        "styleGuideX": "566px",
+        "styleGuideY": "3258px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 604,
+        "yMouseClickPoint": 330
+    },
+    "Layer-1_x590_y1955": {
+        "bottom": [
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2028"
+        ],
+        "click_x": 597.5,
+        "click_y": 1967.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "Layer-1_x590_y1955",
+        "height": "25px",
+        "left": [
+            "Adenomyosis_x388_y1952"
+        ],
+        "parent": [
+            "Rectangle_x215_y1888"
+        ],
+        "right": [],
+        "styleGuideX": "590px",
+        "styleGuideY": "1955px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 639,
+        "yMouseClickPoint": 423
+    },
+    "Layer-1_x601_y2997": {
+        "bottom": [
+            "Lorem_x386_y3070"
+        ],
+        "click_x": 608.5,
+        "click_y": 3009.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "Layer-1_x601_y2997",
+        "height": "25px",
+        "left": [
+            "Endometrial_x388_y2994"
+        ],
+        "parent": [
+            "Rectangle_x215_y2930"
+        ],
+        "right": [],
+        "styleGuideX": "601px",
+        "styleGuideY": "2997px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 634,
+        "yMouseClickPoint": 269
+    },
+    "Layer-1_x615_y4392": {
+        "bottom": [
+            "Rectangle-4-copy_x0_y4854"
+        ],
+        "click_x": 800.0,
+        "click_y": 4577.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "370px",
+            "width": "370px"
+        },
+        "elementName": "Layer-1_x615_y4392",
+        "height": "370px",
+        "left": [
+            "teaser-boxes-copy-2_x214_y4392"
+        ],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [
+            "Layer-1_x1016_y4392"
+        ],
+        "styleGuideX": "615px",
+        "styleGuideY": "4392px",
+        "text": null,
+        "top": [
+            "You-may-be-also-interested-in_x214_y4328"
+        ],
+        "width": "370px",
+        "xMouseClickPoint": 391,
+        "yMouseClickPoint": 7
+    },
+    "Layer-1_x673_y3518": {
+        "bottom": [
+            "Lorem_x386_y3592"
+        ],
+        "click_x": 680.5,
+        "click_y": 3530.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "Layer-1_x673_y3518",
+        "height": "25px",
+        "left": [
+            "Not-yet-classified_x388_y3516"
+        ],
+        "parent": [
+            "Rectangle_x215_y3452"
+        ],
+        "right": [],
+        "styleGuideX": "673px",
+        "styleGuideY": "3518px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 787,
+        "yMouseClickPoint": 395
+    },
+    "Layer-1_x731_y3875": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x316_y3946"
+        ],
+        "click_x": 738.5,
+        "click_y": 3887.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "Layer-1_x731_y3875",
+        "height": "25px",
+        "left": [
+            "Test-lorem-ipsum_x318_y3871"
+        ],
+        "parent": [
+            "Rectangle-613_x215_y3777"
+        ],
+        "right": [
+            "Group_x1115_y3871"
+        ],
+        "styleGuideX": "731px",
+        "styleGuideY": "3875px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 840,
+        "yMouseClickPoint": 153
+    },
+    "Layer-1_x746_y2736": {
+        "bottom": [
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2809"
+        ],
+        "click_x": 753.5,
+        "click_y": 2748.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "Layer-1_x746_y2736",
+        "height": "25px",
+        "left": [
+            "Ovulatory-disfunction_x386_y2733"
+        ],
+        "parent": [
+            "Rectangle_x215_y2669"
+        ],
+        "right": [],
+        "styleGuideX": "746px",
+        "styleGuideY": "2736px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 780,
+        "yMouseClickPoint": 214
+    },
+    "Layer-1_x747_y2474": {
+        "bottom": [
+            "Lorem_x386_y2548"
+        ],
+        "click_x": 754.5,
+        "click_y": 2486.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "Layer-1_x747_y2474",
+        "height": "25px",
+        "left": [
+            "Coagulation-disorders_x386_y2472"
+        ],
+        "parent": [
+            "Rectangle_x215_y2408"
+        ],
+        "right": [],
+        "styleGuideX": "747px",
+        "styleGuideY": "2474px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 779,
+        "yMouseClickPoint": 253
+    },
+    "Layer-1_x838_y2214": {
+        "bottom": [
+            "Lorem-ipsum_x386_y2287"
+        ],
+        "click_x": 845.5,
+        "click_y": 2226.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "Layer-1_x838_y2214",
+        "height": "25px",
+        "left": [
+            "Malignancy-and-hyperplasia_x388_y2211"
+        ],
+        "parent": [
+            "Rectangle_x215_y2147"
+        ],
+        "right": [],
+        "styleGuideX": "838px",
+        "styleGuideY": "2214px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 871,
+        "yMouseClickPoint": 393
+    },
+    "Line-Adenomyosis_x385_y1733": {
+        "bottom": [
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x385_y1765"
+        ],
+        "click_x": 427.0,
+        "click_y": 1734.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "Line-Adenomyosis_x385_y1733",
+        "height": "3px",
+        "left": [
+            "a_x246_y1690"
+        ],
+        "parent": [
+            "Rectangle-Polyps_x215_y1625"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "1733px",
+        "text": null,
+        "top": [
+            "Adenomyosis_x385_y1689"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 462,
+        "yMouseClickPoint": 293
+    },
+    "Line-Adenomyosis_x385_y1996": {
+        "bottom": [
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2028"
+        ],
+        "click_x": 427.0,
+        "click_y": 1997.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "Line-Adenomyosis_x385_y1996",
+        "height": "3px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y1888"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "1996px",
+        "text": null,
+        "top": [
+            "Adenomyosis_x388_y1952"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 472,
+        "yMouseClickPoint": 355
+    },
+    "Line-Coagulation-disorders_x385_y2516": {
+        "bottom": [
+            "Lorem_x386_y2548"
+        ],
+        "click_x": 427.0,
+        "click_y": 2517.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "Line-Coagulation-disorders_x385_y2516",
+        "height": "3px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y2408"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "2516px",
+        "text": null,
+        "top": [
+            "Coagulation-disorders_x386_y2472"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 460,
+        "yMouseClickPoint": 276
+    },
+    "Line-Endometrial_x385_y3038": {
+        "bottom": [
+            "Lorem_x386_y3070"
+        ],
+        "click_x": 427.0,
+        "click_y": 3039.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "Line-Endometrial_x385_y3038",
+        "height": "3px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y2930"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "3038px",
+        "text": null,
+        "top": [
+            "Endometrial_x388_y2994"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 474,
+        "yMouseClickPoint": 298
+    },
+    "Line-Iatrogenic_x385_y3299": {
+        "bottom": [
+            "Lorem_x386_y3331"
+        ],
+        "click_x": 427.0,
+        "click_y": 3300.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "Line-Iatrogenic_x385_y3299",
+        "height": "3px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y3191"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "3299px",
+        "text": null,
+        "top": [
+            "Iatrogenic_x388_y3255"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 458,
+        "yMouseClickPoint": 359
+    },
+    "Line-Malignancy-and-hyperplasia_x385_y2255": {
+        "bottom": [
+            "Lorem-ipsum_x386_y2287"
+        ],
+        "click_x": 427.0,
+        "click_y": 2256.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "Line-Malignancy-and-hyperplasia_x385_y2255",
+        "height": "3px",
+        "left": [
+            "M_x257_y2212"
+        ],
+        "parent": [
+            "Rectangle_x215_y2147"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "2255px",
+        "text": null,
+        "top": [
+            "Malignancy-and-hyperplasia_x388_y2211"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 464,
+        "yMouseClickPoint": 416
+    },
+    "Line-Not-yet-classified_x385_y3560": {
+        "bottom": [
+            "Lorem_x386_y3592"
+        ],
+        "click_x": 427.0,
+        "click_y": 3561.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "Line-Not-yet-classified_x385_y3560",
+        "height": "3px",
+        "left": [
+            "N_x257_y3517"
+        ],
+        "parent": [
+            "Rectangle_x215_y3452"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "3560px",
+        "text": null,
+        "top": [
+            "Not-yet-classified_x388_y3516"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 557,
+        "yMouseClickPoint": 420
+    },
+    "Line-Ovulatory-disfunction_x385_y2777": {
+        "bottom": [
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2809"
+        ],
+        "click_x": 427.0,
+        "click_y": 2778.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "Line-Ovulatory-disfunction_x385_y2777",
+        "height": "3px",
+        "left": [
+            "O_x253_y2733"
+        ],
+        "parent": [
+            "Rectangle_x215_y2669"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "2777px",
+        "text": null,
+        "top": [
+            "Ovulatory-disfunction_x386_y2733"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 466,
+        "yMouseClickPoint": 236
+    },
+    "Line-Polyps_x385_y1472": {
+        "bottom": [
+            "Polyps-are-benign-growths-on-the-lining-of-the-uterus_x386_y1504"
+        ],
+        "click_x": 427.0,
+        "click_y": 1473.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "Line-Polyps_x385_y1472",
+        "height": "3px",
+        "left": [
+            "p_x257_y1429"
+        ],
+        "parent": [
+            "Rectangle-Polyps_x215_y1364"
+        ],
+        "right": [],
+        "styleGuideX": "385px",
+        "styleGuideY": "1472px",
+        "text": null,
+        "top": [
+            "Polyps_x388_y1428"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 480,
+        "yMouseClickPoint": 31
+    },
+    "Lorem-Ipsum-dolor-sit-amet_x218_y561": {
+        "bottom": [
+            "line-copy-18_x215_y606"
+        ],
+        "click_x": 443.0,
+        "click_y": 576.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "31px",
+            "letter-spacing": "normal",
+            "line-height": "1.16",
+            "text-align": "left",
+            "width": "450px"
+        },
+        "elementName": "Lorem-Ipsum-dolor-sit-amet_x218_y561",
+        "height": "31px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "218px",
+        "styleGuideY": "561px",
+        "text": "Diagnostic HMB in 6 Questions",
+        "top": [
+            "PALM-COEIN-Classification-Treatment-Options_x377_y418",
+            "Palm-Coin-Icon_x219_y386"
+        ],
+        "width": "450px",
+        "xMouseClickPoint": 121,
+        "yMouseClickPoint": 176
+    },
+    "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x216_y635": {
+        "bottom": [
+            "Rectangle-960-copy-11_x0_y819"
+        ],
+        "click_x": 728.5,
+        "click_y": 716.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--brownish-grey)",
+            "font-family": "OpenSans",
+            "font-size": "22px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "162px",
+            "letter-spacing": "normal",
+            "line-height": "1.59",
+            "text-align": "left",
+            "width": "1025px"
+        },
+        "elementName": "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x216_y635",
+        "height": "162px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "216px",
+        "styleGuideY": "635px",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\u0003Nam fermentum, nulla luctus pharetra vulputate, felis telorci, sed rhoncus sapien nunc eget.",
+        "top": [
+            "line-copy-18_x215_y606"
+        ],
+        "width": "1025px",
+        "xMouseClickPoint": 244,
+        "yMouseClickPoint": 317
+    },
+    "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x316_y3946": {
+        "bottom": [
+            "Rectangle-3-copy-10_x315_y4090"
+        ],
+        "click_x": 686.0,
+        "click_y": 3973.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "20px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "55px",
+            "letter-spacing": "normal",
+            "line-height": "1.75",
+            "text-align": "left",
+            "width": "740px"
+        },
+        "elementName": "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x316_y3946",
+        "height": "55px",
+        "left": [],
+        "parent": [
+            "Rectangle-613_x215_y3777"
+        ],
+        "right": [
+            "Group_x1115_y3871"
+        ],
+        "styleGuideX": "316px",
+        "styleGuideY": "3946px",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.",
+        "top": [
+            "line-copy-26_x315_y3915",
+            "Layer-1_x731_y3875"
+        ],
+        "width": "740px",
+        "xMouseClickPoint": 214,
+        "yMouseClickPoint": 367
+    },
+    "Lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-d_x315_y1067": {
+        "bottom": [],
+        "click_x": 792.0,
+        "click_y": 1151.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "168px",
+            "letter-spacing": "normal",
+            "line-height": "1.57",
+            "text-align": "left",
+            "width": "954px"
+        },
+        "elementName": "Lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-d_x315_y1067",
+        "height": "168px",
+        "left": [],
+        "parent": [
+            "Rectangle-3333_x215_y1020"
+        ],
+        "right": [],
+        "styleGuideX": "315px",
+        "styleGuideY": "1067px",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. \r\rSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "top": [],
+        "width": "954px",
+        "xMouseClickPoint": 41,
+        "yMouseClickPoint": 232
+    },
+    "Lorem-ipsum_x386_y2287": {
+        "bottom": [],
+        "click_x": 705.0,
+        "click_y": 2294.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "left",
+            "width": "638px"
+        },
+        "elementName": "Lorem-ipsum_x386_y2287",
+        "height": "14px",
+        "left": [
+            "M_x257_y2212"
+        ],
+        "parent": [
+            "Rectangle_x215_y2147"
+        ],
+        "right": [],
+        "styleGuideX": "386px",
+        "styleGuideY": "2287px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt u\r\r",
+        "top": [
+            "Layer-1_x838_y2214",
+            "Line-Malignancy-and-hyperplasia_x385_y2255"
+        ],
+        "width": "638px",
+        "xMouseClickPoint": 232,
+        "yMouseClickPoint": 72
+    },
+    "Lorem_x386_y2548": {
+        "bottom": [],
+        "click_x": 705.0,
+        "click_y": 2555.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "left",
+            "width": "638px"
+        },
+        "elementName": "Lorem_x386_y2548",
+        "height": "14px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y2408"
+        ],
+        "right": [],
+        "styleGuideX": "386px",
+        "styleGuideY": "2548px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt u\r\r",
+        "top": [
+            "Line-Coagulation-disorders_x385_y2516",
+            "Layer-1_x747_y2474"
+        ],
+        "width": "638px",
+        "xMouseClickPoint": 422,
+        "yMouseClickPoint": 334
+    },
+    "Lorem_x386_y3070": {
+        "bottom": [],
+        "click_x": 705.0,
+        "click_y": 3077.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "left",
+            "width": "638px"
+        },
+        "elementName": "Lorem_x386_y3070",
+        "height": "14px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y2930"
+        ],
+        "right": [],
+        "styleGuideX": "386px",
+        "styleGuideY": "3070px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt u\r\r",
+        "top": [
+            "Line-Endometrial_x385_y3038",
+            "Layer-1_x601_y2997"
+        ],
+        "width": "638px",
+        "xMouseClickPoint": 160,
+        "yMouseClickPoint": 400
+    },
+    "Lorem_x386_y3331": {
+        "bottom": [],
+        "click_x": 705.0,
+        "click_y": 3338.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "left",
+            "width": "638px"
+        },
+        "elementName": "Lorem_x386_y3331",
+        "height": "14px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y3191"
+        ],
+        "right": [],
+        "styleGuideX": "386px",
+        "styleGuideY": "3331px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt u\r\r",
+        "top": [
+            "Line-Iatrogenic_x385_y3299",
+            "Layer-1_x566_y3258"
+        ],
+        "width": "638px",
+        "xMouseClickPoint": 231,
+        "yMouseClickPoint": 204
+    },
+    "Lorem_x386_y3592": {
+        "bottom": [],
+        "click_x": 705.0,
+        "click_y": 3599.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "left",
+            "width": "638px"
+        },
+        "elementName": "Lorem_x386_y3592",
+        "height": "14px",
+        "left": [
+            "N_x257_y3517"
+        ],
+        "parent": [
+            "Rectangle_x215_y3452"
+        ],
+        "right": [],
+        "styleGuideX": "386px",
+        "styleGuideY": "3592px",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt u\r\r",
+        "top": [
+            "Line-Not-yet-classified_x385_y3560",
+            "Layer-1_x673_y3518"
+        ],
+        "width": "638px",
+        "xMouseClickPoint": 200,
+        "yMouseClickPoint": 9
+    },
+    "M_x257_y2212": {
+        "bottom": [],
+        "click_x": 305.5,
+        "click_y": 2257.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "126px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "90px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "97px"
+        },
+        "elementName": "M_x257_y2212",
+        "height": "90px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y2147"
+        ],
+        "right": [
+            "Malignancy-and-hyperplasia_x388_y2211",
+            "Line-Malignancy-and-hyperplasia_x385_y2255",
+            "Lorem-ipsum_x386_y2287"
+        ],
+        "styleGuideX": "257px",
+        "styleGuideY": "2212px",
+        "text": "M",
+        "top": [],
+        "width": "97px",
+        "xMouseClickPoint": 427,
+        "yMouseClickPoint": 35
+    },
+    "Malignancy-and-hyperplasia_x388_y2211": {
+        "bottom": [
+            "Line-Malignancy-and-hyperplasia_x385_y2255"
+        ],
+        "click_x": 598.0,
+        "click_y": 2227.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "32px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "420px"
+        },
+        "elementName": "Malignancy-and-hyperplasia_x388_y2211",
+        "height": "32px",
+        "left": [
+            "M_x257_y2212"
+        ],
+        "parent": [
+            "Rectangle_x215_y2147"
+        ],
+        "right": [
+            "Layer-1_x838_y2214"
+        ],
+        "styleGuideX": "388px",
+        "styleGuideY": "2211px",
+        "text": "Malignancy and hyperplasia",
+        "top": [],
+        "width": "420px",
+        "xMouseClickPoint": 125,
+        "yMouseClickPoint": 6
+    },
+    "N_x257_y3517": {
+        "bottom": [],
+        "click_x": 297.5,
+        "click_y": 3562.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "126px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "90px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "81px"
+        },
+        "elementName": "N_x257_y3517",
+        "height": "90px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y3452"
+        ],
+        "right": [
+            "Lorem_x386_y3592",
+            "Line-Not-yet-classified_x385_y3560",
+            "Not-yet-classified_x388_y3516"
+        ],
+        "styleGuideX": "257px",
+        "styleGuideY": "3517px",
+        "text": "N",
+        "top": [],
+        "width": "81px",
+        "xMouseClickPoint": 418,
+        "yMouseClickPoint": 425
+    },
+    "Not-yet-classified_x388_y3516": {
+        "bottom": [
+            "Line-Not-yet-classified_x385_y3560"
+        ],
+        "click_x": 516.0,
+        "click_y": 3532.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "32px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "256px"
+        },
+        "elementName": "Not-yet-classified_x388_y3516",
+        "height": "32px",
+        "left": [
+            "N_x257_y3517"
+        ],
+        "parent": [
+            "Rectangle_x215_y3452"
+        ],
+        "right": [
+            "Layer-1_x673_y3518"
+        ],
+        "styleGuideX": "388px",
+        "styleGuideY": "3516px",
+        "text": "Not yet classified",
+        "top": [],
+        "width": "256px",
+        "xMouseClickPoint": 551,
+        "yMouseClickPoint": 380
+    },
+    "O_x253_y2733": {
+        "bottom": [],
+        "click_x": 296.0,
+        "click_y": 2779.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "126px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "92px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "86px"
+        },
+        "elementName": "O_x253_y2733",
+        "height": "92px",
+        "left": [],
+        "parent": [
+            "Rectangle_x215_y2669"
+        ],
+        "right": [
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2809",
+            "Line-Ovulatory-disfunction_x385_y2777",
+            "Ovulatory-disfunction_x386_y2733"
+        ],
+        "styleGuideX": "253px",
+        "styleGuideY": "2733px",
+        "text": "O",
+        "top": [],
+        "width": "86px",
+        "xMouseClickPoint": 416,
+        "yMouseClickPoint": 102
+    },
+    "Ovulatory-disfunction_x386_y2733": {
+        "bottom": [
+            "Line-Ovulatory-disfunction_x385_y2777"
+        ],
+        "click_x": 551.0,
+        "click_y": 2749.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "32px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "330px"
+        },
+        "elementName": "Ovulatory-disfunction_x386_y2733",
+        "height": "32px",
+        "left": [
+            "O_x253_y2733"
+        ],
+        "parent": [
+            "Rectangle_x215_y2669"
+        ],
+        "right": [
+            "Layer-1_x746_y2736"
+        ],
+        "styleGuideX": "386px",
+        "styleGuideY": "2733px",
+        "text": "Ovulatory disfunction",
+        "top": [],
+        "width": "330px",
+        "xMouseClickPoint": 78,
+        "yMouseClickPoint": 71
+    },
+    "PALM-COEIN-Classification-Treatment-Options_x377_y418": {
+        "bottom": [
+            "Lorem-Ipsum-dolor-sit-amet_x218_y561"
+        ],
+        "click_x": 845.0,
+        "click_y": 439.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "42px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "43px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "left",
+            "width": "936px"
+        },
+        "elementName": "PALM-COEIN-Classification-Treatment-Options_x377_y418",
+        "height": "43px",
+        "left": [
+            "Palm-Coin-Icon_x219_y386"
+        ],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "377px",
+        "styleGuideY": "418px",
+        "text": "PALM-COEIN Classification &amp; Treatment Options\r",
+        "top": [
+            "breadcrumb_x215_y319"
+        ],
+        "width": "936px",
+        "xMouseClickPoint": 454,
+        "yMouseClickPoint": 37
+    },
+    "Palm-Coin-Icon_x219_y386": {
+        "bottom": [
+            "Lorem-Ipsum-dolor-sit-amet_x218_y561"
+        ],
+        "click_x": 263.5,
+        "click_y": 437.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "102px",
+            "width": "89px"
+        },
+        "elementName": "Palm-Coin-Icon_x219_y386",
+        "height": "102px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [
+            "PALM-COEIN-Classification-Treatment-Options_x377_y418"
+        ],
+        "styleGuideX": "219px",
+        "styleGuideY": "386px",
+        "text": null,
+        "top": [
+            "breadcrumb_x215_y319"
+        ],
+        "width": "89px",
+        "xMouseClickPoint": 242,
+        "yMouseClickPoint": 521
+    },
+    "Polyps-are-benign-growths-on-the-lining-of-the-uterus_x386_y1504": {
+        "bottom": [],
+        "click_x": 552.0,
+        "click_y": 1511.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "1.36",
+            "text-align": "left",
+            "width": "332px"
+        },
+        "elementName": "Polyps-are-benign-growths-on-the-lining-of-the-uterus_x386_y1504",
+        "height": "14px",
+        "left": [
+            "p_x257_y1429"
+        ],
+        "parent": [
+            "Rectangle-Polyps_x215_y1364"
+        ],
+        "right": [],
+        "styleGuideX": "386px",
+        "styleGuideY": "1504px",
+        "text": "Polyps are benign growths on the lining of the uterus.\r",
+        "top": [
+            "Line-Polyps_x385_y1472",
+            "Layer-1_x513_y1430"
+        ],
+        "width": "332px",
+        "xMouseClickPoint": 542,
+        "yMouseClickPoint": 202
+    },
+    "Polyps_x388_y1428": {
+        "bottom": [
+            "Line-Polyps_x385_y1472"
+        ],
+        "click_x": 436.0,
+        "click_y": 1444.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "32px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "96px"
+        },
+        "elementName": "Polyps_x388_y1428",
+        "height": "32px",
+        "left": [
+            "p_x257_y1429"
+        ],
+        "parent": [
+            "Rectangle-Polyps_x215_y1364"
+        ],
+        "right": [
+            "Layer-1_x513_y1430"
+        ],
+        "styleGuideX": "388px",
+        "styleGuideY": "1428px",
+        "text": "Polyps",
+        "top": [],
+        "width": "96px",
+        "xMouseClickPoint": 556,
+        "yMouseClickPoint": 133
+    },
+    "Privacy-Statement-Conditions-of-Use-Imprint-About-Us-Sitemap-Re_x214_y4947": {
+        "bottom": [],
+        "click_x": 275.5,
+        "click_y": 5024.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "300",
+            "height": "155px",
+            "letter-spacing": "normal",
+            "line-height": "2",
+            "text-align": "left",
+            "width": "123px"
+        },
+        "elementName": "Privacy-Statement-Conditions-of-Use-Imprint-About-Us-Sitemap-Re_x214_y4947",
+        "height": "155px",
+        "left": [],
+        "parent": [
+            "Rectangle-4-copy_x0_y4854"
+        ],
+        "right": [
+            "-Bayer-AG-This-website-has-been-developed-by-the-HELP-Group-a_x614_y4947"
+        ],
+        "styleGuideX": "214px",
+        "styleGuideY": "4947px",
+        "text": "Privacy Statement\rConditions of Use\rImprint\rAbout Us\rSitemap\rReport a Side Effect",
+        "top": [],
+        "width": "123px",
+        "xMouseClickPoint": 407,
+        "yMouseClickPoint": 457
+    },
+    "ROOT_REF_WINDOW": {
+        "bottom": [],
+        "click_x": 49999.5,
+        "click_y": 49999.5,
+        "contains": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "elementName": null,
+        "height": 99999,
+        "left": [],
+        "parent": [],
+        "right": [],
+        "styleGuideX": 0,
+        "styleGuideY": 0,
+        "top": [],
+        "width": 99999
+    },
+    "Rectangle-3-copy-10_x315_y4090": {
+        "bottom": [],
+        "click_x": 550.0,
+        "click_y": 4115.0,
+        "contains": [
+            "Download_x524_y4107",
+            "icon-download_x485_y4104"
+        ],
+        "cssStyles": {
+            "background-clip": "content-box, border-box",
+            "background-image": "#ffffff, linear-gradient(to right, var(--pale-purple), #c2c0dc)",
+            "background-origin": "border-box",
+            "border-image-slice": "1",
+            "border-image-source": "linear-gradient(to right, var(--pale-purple), #c2c0dc)",
+            "border-radius": "25px",
+            "border-style": "solid",
+            "border-width": "2px",
+            "height": "50px",
+            "width": "470px"
+        },
+        "elementName": "Rectangle-3-copy-10_x315_y4090",
+        "height": "50px",
+        "left": [],
+        "parent": [
+            "Rectangle-613_x215_y3777"
+        ],
+        "right": [
+            "Group_x1115_y3871"
+        ],
+        "styleGuideX": "315px",
+        "styleGuideY": "4090px",
+        "text": null,
+        "top": [
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x316_y3946"
+        ],
+        "width": "470px",
+        "xMouseClickPoint": 486,
+        "yMouseClickPoint": 391
+    },
+    "Rectangle-3333_x215_y1020": {
+        "bottom": [
+            "Rectangle-Polyps_x215_y1364"
+        ],
+        "click_x": 800.0,
+        "click_y": 1149.5,
+        "contains": [
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-d_x315_y1067"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "border": "solid 3px #7e5291",
+            "border-radius": "10px",
+            "height": "259px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle-3333_x215_y1020",
+        "height": "259px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "1020px",
+        "text": null,
+        "top": [
+            "Rectangle-960-copy-11_x0_y819"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 222,
+        "yMouseClickPoint": 389
+    },
+    "Rectangle-3468_x1285_y54": {
+        "bottom": [],
+        "click_x": 1385.0,
+        "click_y": 66.5,
+        "contains": [
+            "element_x1456_y60",
+            "Search_x1300_y61"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "border": "solid 1px var(--pale-grey)",
+            "height": "25px",
+            "width": "200px"
+        },
+        "elementName": "Rectangle-3468_x1285_y54",
+        "height": "25px",
+        "left": [
+            "button_hamburger_x15_y59"
+        ],
+        "parent": [
+            "header-box_x0_y44"
+        ],
+        "right": [
+            "icon-share_x1515_y56"
+        ],
+        "styleGuideX": "1285px",
+        "styleGuideY": "54px",
+        "text": null,
+        "top": [],
+        "width": "200px",
+        "xMouseClickPoint": 937,
+        "yMouseClickPoint": 135
+    },
+    "Rectangle-4-copy_x0_y4854": {
+        "bottom": [],
+        "click_x": 799.5,
+        "click_y": 5023.0,
+        "contains": [
+            "-Bayer-AG-This-website-has-been-developed-by-the-HELP-Group-a_x614_y4947",
+            "Privacy-Statement-Conditions-of-Use-Imprint-About-Us-Sitemap-Re_x214_y4947"
+        ],
+        "cssStyles": {
+            "background-color": "var(--cool-grey)",
+            "height": "338px",
+            "width": "1599px"
+        },
+        "elementName": "Rectangle-4-copy_x0_y4854",
+        "height": "338px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "4854px",
+        "text": null,
+        "top": [
+            "Layer-1_x1016_y4392",
+            "teaser-boxes-copy-2_x214_y4392",
+            "Layer-1_x615_y4392"
+        ],
+        "width": "1599px",
+        "xMouseClickPoint": 239,
+        "yMouseClickPoint": 132
+    },
+    "Rectangle-613_x215_y3777": {
+        "bottom": [
+            "Layer-1_x1016_y4392",
+            "You-may-be-also-interested-in_x214_y4328"
+        ],
+        "click_x": 907.5,
+        "click_y": 4005.5,
+        "contains": [
+            "Group_x1115_y3871",
+            "line-copy-26_x315_y3915",
+            "Rectangle-3-copy-10_x315_y4090",
+            "Layer-1_x731_y3875",
+            "Test-lorem-ipsum_x318_y3871",
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x316_y3946"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "457px",
+            "width": "1385px"
+        },
+        "elementName": "Rectangle-613_x215_y3777",
+        "height": "457px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "3777px",
+        "text": null,
+        "top": [
+            "Rectangle_x215_y3452"
+        ],
+        "width": "1385px",
+        "xMouseClickPoint": 397,
+        "yMouseClickPoint": 514
+    },
+    "Rectangle-960-copy-11_x0_y819": {
+        "bottom": [
+            "Rectangle-3333_x215_y1020"
+        ],
+        "click_x": 799.5,
+        "click_y": 872.0,
+        "contains": [
+            "line-copy-20_x215_y822"
+        ],
+        "cssStyles": {
+            "background-image": "linear-gradient(to top, #faf9fb, #ffffff)",
+            "box-shadow": "0px 20px 30px 0 rgba(100, 15, 71, 0.3)",
+            "height": "106px",
+            "width": "1599px"
+        },
+        "elementName": "Rectangle-960-copy-11_x0_y819",
+        "height": "106px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "819px",
+        "text": null,
+        "top": [
+            "HELP-logo-copy_x1436_y124",
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x216_y635"
+        ],
+        "width": "1599px",
+        "xMouseClickPoint": 247,
+        "yMouseClickPoint": 379
+    },
+    "Rectangle-Polyps_x215_y1364": {
+        "bottom": [
+            "Rectangle-Polyps_x215_y1625"
+        ],
+        "click_x": 800.0,
+        "click_y": 1479.5,
+        "contains": [
+            "Polyps-are-benign-growths-on-the-lining-of-the-uterus_x386_y1504",
+            "Layer-1_x513_y1430",
+            "Line-Polyps_x385_y1472",
+            "Polyps_x388_y1428",
+            "p_x257_y1429"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "231px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle-Polyps_x215_y1364",
+        "height": "231px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "1364px",
+        "text": null,
+        "top": [
+            "Rectangle-3333_x215_y1020"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 299,
+        "yMouseClickPoint": 494
+    },
+    "Rectangle-Polyps_x215_y1625": {
+        "bottom": [
+            "Rectangle_x215_y1888"
+        ],
+        "click_x": 800.0,
+        "click_y": 1740.5,
+        "contains": [
+            "Line-Adenomyosis_x385_y1733",
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x385_y1765",
+            "link-arrow-copy-9_x617_y1692",
+            "Adenomyosis_x385_y1689",
+            "a_x246_y1690"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "231px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle-Polyps_x215_y1625",
+        "height": "231px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "1625px",
+        "text": null,
+        "top": [
+            "Rectangle-Polyps_x215_y1364"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 396,
+        "yMouseClickPoint": 404
+    },
+    "Rectangle_x215_y1888": {
+        "bottom": [
+            "Rectangle_x215_y2147"
+        ],
+        "click_x": 800.0,
+        "click_y": 2003.5,
+        "contains": [
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2028",
+            "Adenomyosis_x388_y1952",
+            "Line-Adenomyosis_x385_y1996",
+            "Layer-1_x590_y1955"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "231px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle_x215_y1888",
+        "height": "231px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "1888px",
+        "text": null,
+        "top": [
+            "Rectangle-Polyps_x215_y1625"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 637,
+        "yMouseClickPoint": 540
+    },
+    "Rectangle_x215_y2147": {
+        "bottom": [
+            "Rectangle_x215_y2408"
+        ],
+        "click_x": 800.0,
+        "click_y": 2262.5,
+        "contains": [
+            "Lorem-ipsum_x386_y2287",
+            "Malignancy-and-hyperplasia_x388_y2211",
+            "Line-Malignancy-and-hyperplasia_x385_y2255",
+            "M_x257_y2212",
+            "Layer-1_x838_y2214"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "231px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle_x215_y2147",
+        "height": "231px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "2147px",
+        "text": null,
+        "top": [
+            "Rectangle_x215_y1888"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 391,
+        "yMouseClickPoint": 501
+    },
+    "Rectangle_x215_y2408": {
+        "bottom": [
+            "Rectangle_x215_y2669"
+        ],
+        "click_x": 800.0,
+        "click_y": 2523.5,
+        "contains": [
+            "Layer-1_x747_y2474",
+            "Coagulation-disorders_x386_y2472",
+            "Lorem_x386_y2548",
+            "Line-Coagulation-disorders_x385_y2516"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "231px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle_x215_y2408",
+        "height": "231px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "2408px",
+        "text": null,
+        "top": [
+            "Rectangle_x215_y2147"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 520,
+        "yMouseClickPoint": 381
+    },
+    "Rectangle_x215_y2669": {
+        "bottom": [
+            "Rectangle_x215_y2930"
+        ],
+        "click_x": 800.0,
+        "click_y": 2784.5,
+        "contains": [
+            "Layer-1_x746_y2736",
+            "Ovulatory-disfunction_x386_y2733",
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x386_y2809",
+            "Line-Ovulatory-disfunction_x385_y2777",
+            "O_x253_y2733"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "231px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle_x215_y2669",
+        "height": "231px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "2669px",
+        "text": null,
+        "top": [
+            "Rectangle_x215_y2408"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 539,
+        "yMouseClickPoint": 335
+    },
+    "Rectangle_x215_y2930": {
+        "bottom": [
+            "Rectangle_x215_y3191"
+        ],
+        "click_x": 800.0,
+        "click_y": 3045.5,
+        "contains": [
+            "Endometrial_x388_y2994",
+            "Line-Endometrial_x385_y3038",
+            "Layer-1_x601_y2997",
+            "Lorem_x386_y3070"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "231px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle_x215_y2930",
+        "height": "231px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "2930px",
+        "text": null,
+        "top": [
+            "Rectangle_x215_y2669"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 509,
+        "yMouseClickPoint": 390
+    },
+    "Rectangle_x215_y3191": {
+        "bottom": [
+            "Rectangle_x215_y3452"
+        ],
+        "click_x": 800.0,
+        "click_y": 3306.5,
+        "contains": [
+            "Line-Iatrogenic_x385_y3299",
+            "Lorem_x386_y3331",
+            "Iatrogenic_x388_y3255",
+            "Layer-1_x566_y3258"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "231px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle_x215_y3191",
+        "height": "231px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "3191px",
+        "text": null,
+        "top": [
+            "Rectangle_x215_y2930"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 497,
+        "yMouseClickPoint": 438
+    },
+    "Rectangle_x215_y3452": {
+        "bottom": [
+            "Rectangle-613_x215_y3777"
+        ],
+        "click_x": 800.0,
+        "click_y": 3567.5,
+        "contains": [
+            "Line-Not-yet-classified_x385_y3560",
+            "Not-yet-classified_x388_y3516",
+            "N_x257_y3517",
+            "Layer-1_x673_y3518",
+            "Lorem_x386_y3592"
+        ],
+        "cssStyles": {
+            "background-color": "var(--pale-grey-three)",
+            "height": "231px",
+            "width": "1170px"
+        },
+        "elementName": "Rectangle_x215_y3452",
+        "height": "231px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "3452px",
+        "text": null,
+        "top": [
+            "Rectangle_x215_y3191"
+        ],
+        "width": "1170px",
+        "xMouseClickPoint": 500,
+        "yMouseClickPoint": 490
+    },
+    "Search_x1300_y61": {
+        "bottom": [],
+        "click_x": 1318.5,
+        "click_y": 65.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "12px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "9px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "left",
+            "width": "37px"
+        },
+        "elementName": "Search_x1300_y61",
+        "height": "9px",
+        "left": [],
+        "parent": [
+            "Rectangle-3468_x1285_y54"
+        ],
+        "right": [
+            "element_x1456_y60"
+        ],
+        "styleGuideX": "1300px",
+        "styleGuideY": "61px",
+        "text": "Search",
+        "top": [],
+        "width": "37px",
+        "xMouseClickPoint": 248,
+        "yMouseClickPoint": 125
+    },
+    "Select-your-country_x1435_y15": {
+        "bottom": [],
+        "click_x": 1498.0,
+        "click_y": 22.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "15px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "right",
+            "width": "126px"
+        },
+        "elementName": "Select-your-country_x1435_y15",
+        "height": "15px",
+        "left": [
+            "For-Healthcare-Professionals_x103_y15"
+        ],
+        "parent": [
+            "header-box-copy_x0_y0"
+        ],
+        "right": [
+            "arrow-down_x1571_y19"
+        ],
+        "styleGuideX": "1435px",
+        "styleGuideY": "15px",
+        "text": "Select your country",
+        "top": [],
+        "width": "126px",
+        "xMouseClickPoint": 427,
+        "yMouseClickPoint": 80
+    },
+    "Share_x1549_y59": {
+        "bottom": [],
+        "click_x": 1567.0,
+        "click_y": 65.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "OpenSans",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "12px",
+            "letter-spacing": "normal",
+            "line-height": "normal",
+            "text-align": "right",
+            "width": "36px"
+        },
+        "elementName": "Share_x1549_y59",
+        "height": "12px",
+        "left": [
+            "icon-share_x1515_y56"
+        ],
+        "parent": [
+            "header-box_x0_y44"
+        ],
+        "right": [],
+        "styleGuideX": "1549px",
+        "styleGuideY": "59px",
+        "text": "Share",
+        "top": [],
+        "width": "36px",
+        "xMouseClickPoint": 497,
+        "yMouseClickPoint": 123
+    },
+    "Test-lorem-ipsum_x318_y3871": {
+        "bottom": [
+            "line-copy-26_x315_y3915"
+        ],
+        "click_x": 517.0,
+        "click_y": 3883.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#7e5291",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "24px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "398px"
+        },
+        "elementName": "Test-lorem-ipsum_x318_y3871",
+        "height": "24px",
+        "left": [],
+        "parent": [
+            "Rectangle-613_x215_y3777"
+        ],
+        "right": [
+            "Layer-1_x731_y3875"
+        ],
+        "styleGuideX": "318px",
+        "styleGuideY": "3871px",
+        "text": "PALM-COEIN Classification ",
+        "top": [],
+        "width": "398px",
+        "xMouseClickPoint": 46,
+        "yMouseClickPoint": 293
+    },
+    "You-may-be-also-interested-in_x214_y4328": {
+        "bottom": [
+            "Layer-1_x615_y4392",
+            "line-copy-27_x214_y4372"
+        ],
+        "click_x": 429.5,
+        "click_y": 4344.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "32px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "32px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "431px"
+        },
+        "elementName": "You-may-be-also-interested-in_x214_y4328",
+        "height": "32px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "214px",
+        "styleGuideY": "4328px",
+        "text": "You may be also interested in",
+        "top": [
+            "Rectangle-613_x215_y3777"
+        ],
+        "width": "431px",
+        "xMouseClickPoint": 550,
+        "yMouseClickPoint": 299
+    },
+    "a_x246_y1690": {
+        "bottom": [],
+        "click_x": 289.5,
+        "click_y": 1735.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "126px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "90px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "87px"
+        },
+        "elementName": "a_x246_y1690",
+        "height": "90px",
+        "left": [],
+        "parent": [
+            "Rectangle-Polyps_x215_y1625"
+        ],
+        "right": [
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x385_y1765",
+            "Adenomyosis_x385_y1689",
+            "Line-Adenomyosis_x385_y1733"
+        ],
+        "styleGuideX": "246px",
+        "styleGuideY": "1690px",
+        "text": "A",
+        "top": [],
+        "width": "87px",
+        "xMouseClickPoint": 413,
+        "yMouseClickPoint": 427
+    },
+    "arrow-down_x1571_y19": {
+        "bottom": [],
+        "click_x": 1578.0,
+        "click_y": 23.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "8px",
+            "width": "14px"
+        },
+        "elementName": "arrow-down_x1571_y19",
+        "height": "8px",
+        "left": [
+            "Select-your-country_x1435_y15"
+        ],
+        "parent": [
+            "header-box-copy_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "1571px",
+        "styleGuideY": "19px",
+        "text": null,
+        "top": [],
+        "width": "14px",
+        "xMouseClickPoint": 1202,
+        "yMouseClickPoint": 83
+    },
+    "breadcrumb_x215_y319": {
+        "bottom": [
+            "PALM-COEIN-Classification-Treatment-Options_x377_y418",
+            "Palm-Coin-Icon_x219_y386"
+        ],
+        "click_x": 429.0,
+        "click_y": 323.5,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--greyish-brown-two)",
+            "font-family": "OpenSans",
+            "font-size": "12px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "600",
+            "height": "9px",
+            "letter-spacing": "1.7px",
+            "line-height": "5.83",
+            "text-align": "left",
+            "width": "428px"
+        },
+        "elementName": "breadcrumb_x215_y319",
+        "height": "9px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "319px",
+        "text": "home &amp;gt; Learn about HMB &amp;gt; PALM-COEIN Classification",
+        "top": [
+            "Improving-knowledge-Improving-lives_x118_y186"
+        ],
+        "width": "428px",
+        "xMouseClickPoint": 65,
+        "yMouseClickPoint": 382
+    },
+    "button_hamburger_x15_y59": {
+        "bottom": [],
+        "click_x": 25.0,
+        "click_y": 66.5,
+        "contains": [],
+        "cssStyles": {
+            "height": "15px",
+            "width": "20px"
+        },
+        "elementName": "button_hamburger_x15_y59",
+        "height": "15px",
+        "left": [],
+        "parent": [
+            "header-box_x0_y44"
+        ],
+        "right": [
+            "Rectangle-3468_x1285_y54"
+        ],
+        "styleGuideX": "15px",
+        "styleGuideY": "59px",
+        "text": null,
+        "top": [],
+        "width": "20px",
+        "xMouseClickPoint": 152,
+        "yMouseClickPoint": 127
+    },
+    "element_x1456_y60": {
+        "bottom": [],
+        "click_x": 1463.0,
+        "click_y": 67.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "#ffffff",
+            "font-family": "icomoon",
+            "font-size": "14px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "normal",
+            "height": "14px",
+            "letter-spacing": "normal",
+            "line-height": "2",
+            "text-align": "left",
+            "width": "14px"
+        },
+        "elementName": "element_x1456_y60",
+        "height": "14px",
+        "left": [
+            "Search_x1300_y61"
+        ],
+        "parent": [
+            "Rectangle-3468_x1285_y54"
+        ],
+        "right": [],
+        "styleGuideX": "1456px",
+        "styleGuideY": "60px",
+        "text": "?",
+        "top": [],
+        "width": "14px",
+        "xMouseClickPoint": 1095,
+        "yMouseClickPoint": 127
+    },
+    "header-box-copy_x0_y0": {
+        "bottom": [],
+        "click_x": 800.0,
+        "click_y": 22.0,
+        "contains": [
+            "arrow-down_x1571_y19",
+            "About-us_x14_y15",
+            "For-Healthcare-Professionals_x103_y15",
+            "Select-your-country_x1435_y15"
+        ],
+        "cssStyles": {
+            "background-color": "var(--cool-grey)",
+            "height": "44px",
+            "width": "1600px"
+        },
+        "elementName": "header-box-copy_x0_y0",
+        "height": "44px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "0px",
+        "text": null,
+        "top": [],
+        "width": "1600px",
+        "xMouseClickPoint": 690,
+        "yMouseClickPoint": 92
+    },
+    "header-box_x0_y44": {
+        "bottom": [
+            "HELP-logo-copy_x1436_y124",
+            "HMB_x119_y120"
+        ],
+        "click_x": 800.0,
+        "click_y": 66.0,
+        "contains": [
+            "Rectangle-3468_x1285_y54",
+            "icon-share_x1515_y56",
+            "button_hamburger_x15_y59",
+            "Share_x1549_y59"
+        ],
+        "cssStyles": {
+            "background-image": "linear-gradient(to right, #7e5291, var(--dusk))",
+            "height": "44px",
+            "width": "1600px"
+        },
+        "elementName": "header-box_x0_y44",
+        "height": "44px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "0px",
+        "styleGuideY": "44px",
+        "text": null,
+        "top": [],
+        "width": "1600px",
+        "xMouseClickPoint": 194,
+        "yMouseClickPoint": 130
+    },
+    "icon-arrow-up-copy_x1514_y4769": {
+        "bottom": [],
+        "click_x": 1539.0,
+        "click_y": 4794.0,
+        "contains": [
+            "Layer-1_x1514_y4769"
+        ],
+        "cssStyles": {
+            "box-shadow": "0px 3px 36px 0 rgba(0, 0, 0, 0.2)",
+            "height": "50px",
+            "width": "50px"
+        },
+        "elementName": "icon-arrow-up-copy_x1514_y4769",
+        "height": "50px",
+        "left": [],
+        "parent": [
+            "Layer-1_x1514_y4769"
+        ],
+        "right": [],
+        "styleGuideX": "1514px",
+        "styleGuideY": "4769px",
+        "text": null,
+        "top": [],
+        "width": "50px",
+        "xMouseClickPoint": 1173,
+        "yMouseClickPoint": 140
+    },
+    "icon-download_x485_y4104": {
+        "bottom": [],
+        "click_x": 495.0,
+        "click_y": 4114.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "#7e5291",
+            "height": "21px",
+            "width": "20px"
+        },
+        "elementName": "icon-download_x485_y4104",
+        "height": "21px",
+        "left": [],
+        "parent": [
+            "Rectangle-3-copy-10_x315_y4090"
+        ],
+        "right": [
+            "Download_x524_y4107"
+        ],
+        "styleGuideX": "485px",
+        "styleGuideY": "4104px",
+        "text": null,
+        "top": [],
+        "width": "20px",
+        "xMouseClickPoint": 600,
+        "yMouseClickPoint": 375
+    },
+    "icon-share_x1515_y56": {
+        "bottom": [],
+        "click_x": 1525.0,
+        "click_y": 66.0,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--rose)",
+            "height": "20px",
+            "width": "20px"
+        },
+        "elementName": "icon-share_x1515_y56",
+        "height": "20px",
+        "left": [
+            "Rectangle-3468_x1285_y54"
+        ],
+        "parent": [
+            "header-box_x0_y44"
+        ],
+        "right": [
+            "Share_x1549_y59"
+        ],
+        "styleGuideX": "1515px",
+        "styleGuideY": "56px",
+        "text": null,
+        "top": [],
+        "width": "20px",
+        "xMouseClickPoint": 1168,
+        "yMouseClickPoint": 130
+    },
+    "line-copy-18_x215_y606": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x216_y635"
+        ],
+        "click_x": 257.0,
+        "click_y": 607.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "line-copy-18_x215_y606",
+        "height": "3px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "606px",
+        "text": null,
+        "top": [
+            "Lorem-Ipsum-dolor-sit-amet_x218_y561"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 261,
+        "yMouseClickPoint": 165
+    },
+    "line-copy-20_x215_y822": {
+        "bottom": [],
+        "click_x": 257.0,
+        "click_y": 823.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "line-copy-20_x215_y822",
+        "height": "3px",
+        "left": [],
+        "parent": [
+            "Rectangle-960-copy-11_x0_y819"
+        ],
+        "right": [],
+        "styleGuideX": "215px",
+        "styleGuideY": "822px",
+        "text": null,
+        "top": [],
+        "width": "84px",
+        "xMouseClickPoint": 240,
+        "yMouseClickPoint": 182
+    },
+    "line-copy-26_x315_y3915": {
+        "bottom": [
+            "Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Aenean-euismod-bibendum-laoreet-Proin-gra_x316_y3946"
+        ],
+        "click_x": 357.0,
+        "click_y": 3916.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "line-copy-26_x315_y3915",
+        "height": "3px",
+        "left": [],
+        "parent": [
+            "Rectangle-613_x215_y3777"
+        ],
+        "right": [
+            "Group_x1115_y3871"
+        ],
+        "styleGuideX": "315px",
+        "styleGuideY": "3915px",
+        "text": null,
+        "top": [
+            "Test-lorem-ipsum_x318_y3871"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 491,
+        "yMouseClickPoint": 175
+    },
+    "line-copy-27_x214_y4372": {
+        "bottom": [
+            "teaser-boxes-copy-2_x214_y4392"
+        ],
+        "click_x": 256.0,
+        "click_y": 4373.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "var(--pale-grey)",
+            "height": "3px",
+            "width": "84px"
+        },
+        "elementName": "line-copy-27_x214_y4372",
+        "height": "3px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [],
+        "styleGuideX": "214px",
+        "styleGuideY": "4372px",
+        "text": null,
+        "top": [
+            "You-may-be-also-interested-in_x214_y4328"
+        ],
+        "width": "84px",
+        "xMouseClickPoint": 396,
+        "yMouseClickPoint": 234
+    },
+    "link-arrow-copy-9_x617_y1692": {
+        "bottom": [
+            "Adenomyosis-is-a-condition-in-which-the-lining-of-the-uterus-the-endometrium-grows-into-the-muscular-wall-of-the-uterus-the-myometrium_x385_y1765"
+        ],
+        "click_x": 624.5,
+        "click_y": 1704.5,
+        "contains": [],
+        "cssStyles": {
+            "background-color": "#7e5291",
+            "height": "25px",
+            "width": "15px"
+        },
+        "elementName": "link-arrow-copy-9_x617_y1692",
+        "height": "25px",
+        "left": [
+            "Adenomyosis_x385_y1689"
+        ],
+        "parent": [
+            "Rectangle-Polyps_x215_y1625"
+        ],
+        "right": [],
+        "styleGuideX": "617px",
+        "styleGuideY": "1692px",
+        "text": null,
+        "top": [],
+        "width": "15px",
+        "xMouseClickPoint": 667,
+        "yMouseClickPoint": 265
+    },
+    "p_x257_y1429": {
+        "bottom": [],
+        "click_x": 288.5,
+        "click_y": 1474.0,
+        "contains": [],
+        "cssStyles": {
+            "color": "var(--dusk)",
+            "font-family": "OpenSans",
+            "font-size": "126px",
+            "font-stretch": "normal",
+            "font-style": "normal",
+            "font-weight": "bold",
+            "height": "90px",
+            "letter-spacing": "normal",
+            "line-height": "1.03",
+            "text-align": "left",
+            "width": "63px"
+        },
+        "elementName": "p_x257_y1429",
+        "height": "90px",
+        "left": [],
+        "parent": [
+            "Rectangle-Polyps_x215_y1364"
+        ],
+        "right": [
+            "Polyps-are-benign-growths-on-the-lining-of-the-uterus_x386_y1504",
+            "Line-Polyps_x385_y1472",
+            "Polyps_x388_y1428"
+        ],
+        "styleGuideX": "257px",
+        "styleGuideY": "1429px",
+        "text": "P",
+        "top": [],
+        "width": "63px",
+        "xMouseClickPoint": 413,
+        "yMouseClickPoint": 163
+    },
+    "teaser-boxes-copy-2_x214_y4392": {
+        "bottom": [
+            "Rectangle-4-copy_x0_y4854"
+        ],
+        "click_x": 399.0,
+        "click_y": 4577.0,
+        "contains": [],
+        "cssStyles": {
+            "height": "370px",
+            "width": "370px"
+        },
+        "elementName": "teaser-boxes-copy-2_x214_y4392",
+        "height": "370px",
+        "left": [],
+        "parent": [
+            "-HCP-ClassificationTreatment_x0_y0"
+        ],
+        "right": [
+            "Layer-1_x615_y4392"
+        ],
+        "styleGuideX": "214px",
+        "styleGuideY": "4392px",
+        "text": null,
+        "top": [
+            "line-copy-27_x214_y4372"
+        ],
+        "width": "370px",
+        "xMouseClickPoint": 409,
+        "yMouseClickPoint": 190
+    }
+}
